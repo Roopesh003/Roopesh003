@@ -23,13 +23,6 @@ Work with relational and non-relational databases (MySQL, MongoDB)
 
 Rapid prototyping & agile full stack development
 
-⚡ My Projects
-Project Name	Tech Stack	Description
-Pizza Billing System	Java, OOP, MySQL (SpringBoot)	Automated pizza billing with OOP concepts
-E-Commerce Web App	React.js, Node.js, MongoDB	Full-featured online store
-User Auth Portal	Django, Bootstrap, SQL Workbench	Secure authentication and user management
-Blog Platform	JavaScript, HTML, CSS, MongoDB, Node.js	Create, edit, and share blogs
-
 📈 How I Work
 Version control: Git/GitHub
 
