@@ -1,4 +1,5 @@
-👨💻 Full Stack Developer 
+👨💻 Full Stack Developer
+
 Welcome to my GitHub! I am Roopesh S, a passionate Full Stack Developer proficient in building scalable, robust, and user-centric applications using modern technologies.
 
 🚀 Technologies & Skills
